@@ -26,6 +26,12 @@ npm run build
 
 Product and hero photography is loaded from Unsplash. Checkout is a front-end placeholder and is not connected to payment processing.
 
+## Deployment
+
+GitHub Actions builds and deploys the site to GitHub Pages whenever changes are pushed to `main`.
+
+https://atsuatsushiiii.github.io/afterglow-market/
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
